@@ -1,0 +1,5 @@
+# This is a config to store user information to connect to the cache
+
+username_auth = admin
+password_auth = admin
+proxy_url = https://eve-r/manage
